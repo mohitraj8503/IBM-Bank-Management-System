@@ -29,3 +29,7 @@ Mohit Raj
 Rishika Kumari  
 G. Omkeshwari  
 (IBM Students, Arka Jain University)
+
+---
+
+Built by [Mohit Raj](https://github.com/mohitraj8503) — Technical Team Lead @ [Tech Tomorrow](https://techtomorrow.in)
